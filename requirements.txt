@@ -1,7 +1,0 @@
-pandas
-openpyxl
-vaderSentiment
-scikit-learn
-nltk
-matplotlib
-wordcloud
